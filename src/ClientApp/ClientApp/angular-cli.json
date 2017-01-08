@@ -7,6 +7,7 @@
     {
       "root": "src",
       "outDir": "dist",
+	  "outDir": "../../Angular2CliAspNetCore/wwwroot"
       "assets": [
         "assets",
         "favicon.ico"
